@@ -17,7 +17,7 @@ public class Main {
             System.out.println(frutas[cont++]);
         }
 
-        int cont2 = 0;
+        int cont2  = 0;
         do{
             System.out.println(frutas[cont2++]);
         } while(cont2 < 3);
